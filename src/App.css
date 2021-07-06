@@ -81,6 +81,7 @@
     width: calc(100% - 36px);
     padding: 18px;
     text-align: center;
+    background-attachment: fixed;
   }
   
   .chat-title {
